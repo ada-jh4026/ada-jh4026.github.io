@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Carlos_Hu</title>
-        <link>https://ada-c38f0bb79f.github.io/categories/</link>
+        <link>https://ada-jh4026.github.io/categories/</link>
         <description>Recent content in Categories on Carlos_Hu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Carloss_Hu</copyright><atom:link href="https://ada-c38f0bb79f.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Carloss_Hu</copyright><atom:link href="https://ada-jh4026.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
-        <link>https://ada-c38f0bb79f.github.io/categories/test/</link>
+        <link>https://ada-jh4026.github.io/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://ada-c38f0bb79f.github.io/categories/test/</guid>
-        <description>&lt;img src="https://ada-c38f0bb79f.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://ada-jh4026.github.io/categories/test/</guid>
+        <description>&lt;img src="https://ada-jh4026.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>
